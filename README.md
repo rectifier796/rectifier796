@@ -105,7 +105,6 @@ Working on fintech platforms involving merchant onboarding and high-volume payme
 
 - Developed a no-code website builder backend using NestJS, building **25+ REST APIs** for page rendering and publishing.
 - Implemented JWT authentication and PostgreSQL integration using TypeORM.
-- Built a coupon engine supporting **7+ discount rule types** and automated **100+ monthly invoices** through Zoho REST API integration.
 
 ---
 
